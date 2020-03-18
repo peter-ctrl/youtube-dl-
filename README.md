@@ -11,17 +11,17 @@ Thanks to youtube-dl
 
 Name : dedshit 
 
-Github : https://github.com/dedshit/youtube-dl.git 
+Github : https://github.com/dedshit/youtube-dl-.git 
 
 [+] Installation :-
 
 apt update && apt upgrade
 apt install git   
-git clone https://github.com/dedshit/youtube-dl.git
+git clone https://github.com/dedshit/youtube-dl-.git
 
-cd youtube-dl
+cd youtube-dl-
 
-chmod 777 youtube-dl 
+chmod 777 youtube-dl- 
 
 
 [+] usage :-
